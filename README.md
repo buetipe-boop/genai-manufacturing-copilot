@@ -101,57 +101,44 @@ genai-manufacturing-copilot/
 ├── requirements.txt
 └── README.md
 
-##📂 Project Structure
-
-genai-manufacturing-copilot/
-│
-├── app/
-│   ├── __init__.py
-│   ├── agent.py
-│   ├── gemini_client.py
-│   └── prompts.py
-│
-├── eval/
-│   ├── test_cases.json
-│   └── run_eval.py
-│
-├── docs/
-│   └── screenshots/
-│
-├── app_ui.py
-├── run_demo.py
-├── requirements.txt
-└── README.md
-
+```
 
 ##⚙️ Installation & Setup
 
 1️⃣ Clone repository
 
+```bash
 git clone https://github.com/buetipe-boop/genai-manufacturing-copilot.git
 cd genai-manufacturing-copilot
-
+```
 
 2️⃣ Create and activate virtual environment
 
+```bash
 python -m venv .venv
 .venv\Scripts\activate
+```
 
 3️⃣ Install dependencies
 
+```bash
 pip install -r requirements.txt
+```
 
 4️⃣ Add Gemini API Key (Required for live API mode)
 
+```bash
 GEMINI_API_KEY=your_api_key_here
 
+```
 [You can generate a free API key at:
 https://ai.google.dev/]
 
 ▶️ Run the Application
 
+```bash
 streamlit run app_ui.py
-
+```
 🖥 Demo Mode (No API Required)
 
 If API quota is exceeded or you want to present the system without external calls:

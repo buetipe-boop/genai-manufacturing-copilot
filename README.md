@@ -104,7 +104,7 @@ genai-manufacturing-copilot/
 ```
 ---
 
-##⚙️ Installation & Setup
+## ⚙️ Installation & Setup
 
 1️⃣ Clone repository
 
@@ -159,14 +159,14 @@ If API quota is exceeded or you want to present the system without external call
 
 ---
 
-##📸 Screenshots
+## 📸 Screenshots
 
 docs/screenshots/
 
 ---
 
 
- ##👤 Author
+ ## 👤 Author
 
 **Partha Pratim Sutradhar**
 M.Eng. Technology & Innovation Management

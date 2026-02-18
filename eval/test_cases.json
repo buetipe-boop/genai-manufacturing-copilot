@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Troubleshoot basic motor trip",
+    "mode": "troubleshoot",
+    "input": "Conveyor motor trips after 15 minutes. Current spikes. Smell of heat. New bearings installed yesterday.",
+    "must_have_keys": ["summary", "probable_causes", "diagnostic_steps", "actions", "risks_and_safety", "assumptions"]
+  },
+  {
+    "name": "Process doc SOP conversion",
+    "mode": "process_doc",
+    "input": "Wear PPE. Start press. Set temp 180C. Wait 5 minutes. If noise, stop. Record batch number.",
+    "must_have_keys": ["sop_title", "purpose", "required_tools_ppe", "steps", "checklist", "stop_conditions", "common_mistakes"]
+  },
+  {
+    "name": "Defect report from counts",
+    "mode": "defect_report",
+    "input": "Defect counts: Scratch 42, Misalignment 18, Crack 7. Context: new operator on shift B. Supplier batch changed.",
+    "must_have_keys": ["executive_summary", "top_defects", "likely_causes", "containment_actions", "recommended_experiments", "data_gaps"]
+  }
+]

@@ -140,7 +140,7 @@ https://ai.google.dev/
 
 ⚠️ Do NOT commit your .env file.
 
-▶️ Run the Application
+## ▶️ Run the Application
 
 ```bash
 streamlit run app_ui.py

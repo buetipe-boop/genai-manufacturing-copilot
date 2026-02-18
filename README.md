@@ -75,6 +75,32 @@ Run validation (from project root):
 python -m eval.run_eval
 
 ```
+
+---
+
+## 📂 Project Structure
+
+```text
+genai-manufacturing-copilot/
+│
+├── app/
+│   ├── __init__.py
+│   ├── agent.py
+│   ├── gemini_client.py
+│   └── prompts.py
+│
+├── eval/
+│   ├── test_cases.json
+│   └── run_eval.py
+│
+├── docs/
+│   └── screenshots/
+│
+├── app_ui.py
+├── run_demo.py
+├── requirements.txt
+└── README.md
+
 ##📂 Project Structure
 
 genai-manufacturing-copilot/

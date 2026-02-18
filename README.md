@@ -173,4 +173,5 @@ docs/screenshots/
 **Partha Pratim Sutradhar**
 
 M.Eng. Technology & Innovation Management
+
 Focus: Industrial AI, Manufacturing Systems, Digital Transformation

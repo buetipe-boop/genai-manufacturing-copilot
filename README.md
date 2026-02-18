@@ -74,6 +74,7 @@ Run validation (from project root):
 ```bash
 python -m eval.run_eval
 
+```
 ##📂 Project Structure
 
 genai-manufacturing-copilot/

@@ -102,7 +102,7 @@ genai-manufacturing-copilot/
 └── README.md
 
 ```
-
+---
 ##⚙️ Installation & Setup
 
 1️⃣ Clone repository
@@ -152,11 +152,11 @@ If API quota is exceeded or you want to present the system without external call
 
 	Structured output will be simulated
 
-
-📸 Screenshots
+---
+##📸 Screenshots
 
 docs/screenshots/
-
+---
  ##👤 Author
 
 **Partha Pratim Sutradhar**

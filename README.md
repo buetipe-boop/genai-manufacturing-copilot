@@ -127,12 +127,17 @@ pip install -r requirements.txt
 
 4️⃣ Add Gemini API Key (Required for live API mode)
 
+Create a `.env` file in the project root:
+
+
 ```bash
 GEMINI_API_KEY=your_api_key_here
 
 ```
-[You can generate a free API key at:
-https://ai.google.dev/]
+You can generate a free API key at:
+https://ai.google.dev/
+
+⚠️ Do NOT commit your .env file.
 
 ▶️ Run the Application
 
@@ -152,8 +157,8 @@ If API quota is exceeded or you want to present the system without external call
 
 docs/screenshots/
 
-👤 Author
+ ##👤 Author
 
-Partha Pratim Sutradhar
+**Partha Pratim Sutradhar**
 M.Eng. Technology & Innovation Management
 Focus: Industrial AI, Manufacturing Systems, Digital Transformation

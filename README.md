@@ -161,6 +161,8 @@ If API quota is exceeded or you want to present the system without external call
 
 ## 📸 Screenshots
 
+Screenshots demonstrating each agent mode are available in:
+
 docs/screenshots/
 
 ---
@@ -169,5 +171,6 @@ docs/screenshots/
  ## 👤 Author
 
 **Partha Pratim Sutradhar**
+
 M.Eng. Technology & Innovation Management
 Focus: Industrial AI, Manufacturing Systems, Digital Transformation

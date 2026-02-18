@@ -103,6 +103,7 @@ genai-manufacturing-copilot/
 
 ```
 ---
+
 ##⚙️ Installation & Setup
 
 1️⃣ Clone repository
@@ -144,7 +145,11 @@ https://ai.google.dev/
 ```bash
 streamlit run app_ui.py
 ```
-🖥 Demo Mode (No API Required)
+
+
+---
+
+## 🖥 Demo Mode (No API Required)
 
 If API quota is exceeded or you want to present the system without external calls:
 
@@ -153,10 +158,14 @@ If API quota is exceeded or you want to present the system without external call
 	Structured output will be simulated
 
 ---
+
 ##📸 Screenshots
 
 docs/screenshots/
+
 ---
+
+
  ##👤 Author
 
 **Partha Pratim Sutradhar**
